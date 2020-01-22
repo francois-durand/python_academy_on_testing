@@ -15,12 +15,12 @@ def my_division(x, y):
     --------
     Even if arguments are integers, the result is a float:
 
-        >>> 42 / 6
+        >>> my_division(42, 6)
         7.0
 
     If `y` is zero, it raises a ZeroDivisionError:
 
-        >>> 42 / 0
+        >>> my_division(42, 0)
         Traceback (most recent call last):
         ZeroDivisionError: division by zero
     """
