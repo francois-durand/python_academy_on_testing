@@ -18,6 +18,7 @@ Python Academy on Testing contains examples of testing for the `Python Academy`_
 
 * Free software: GNU General Public License v3
 * Documentation: https://python-academy-on-testing.readthedocs.io.
+* Slides of the presentation: https://www.lincs.fr/wp-content/uploads/2020/01/testing_in_python.pdf.
 
 .. _`Python Academy`: https://www.lincs.fr/research/working-groups/python-academy/
 .. _`Lincs`: https://www.lincs.fr/
